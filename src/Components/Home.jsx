@@ -161,7 +161,7 @@ const Home = () => {
                   <path fill="none" d="M0 0h24v24H0z" />
                   <path d="M14 12l-4 4V8z" />
                 </svg>{" "}
-                January 2024 - July 2024
+                April 2024 - July 2024
               </h1>
               <h2>Front-end developer</h2>
               <h3>Web Soft Valley</h3>
