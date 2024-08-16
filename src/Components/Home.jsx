@@ -263,13 +263,13 @@ const Home = () => {
               <div className="Mygitprojects">
                 <a
                   target="_blank"
-                  href="https://abhishekmeena-portfolio.vercel.app/"
+                  href="https://fitness-icon-gym-website.vercel.app"
                 >
                   <h2>fitness-icon-gym.com</h2>{" "}
                 </a>
                 <a
                   target="_blank"
-                  href="https://abhishekmeena-portfolio.vercel.app/"
+                  href="https://fitness-icon-gym-website.vercel.app"
                 >
                   <div className="projectimg1">
                     <img
