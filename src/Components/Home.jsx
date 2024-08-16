@@ -267,7 +267,10 @@ const Home = () => {
                 >
                   <h2>fitness-icon-gym.com</h2>{" "}
                 </a>
-                <a target="_blank" href="https://www.bonzaonstreet.com/">
+                <a
+                  target="_blank"
+                  href="https://fitness-icon-gym-website.vercel.app"
+                >
                   <div className="projectimg1">
                     <img
                       src="https://github.com/abhishekmeena04/fitness-icon-gym-website/blob/main/public/logo.png?raw=true"
