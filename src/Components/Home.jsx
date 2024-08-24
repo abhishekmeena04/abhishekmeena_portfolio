@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import logo from "./2.png";
 import "./Home.css";
-import resume from "./abhu.jpg";
+import resume from "./AbhishekMeena-Frontend Developer.pdf";
 
 import abhi from "./abhiii.jpg";
 import { Link } from "react-router-dom";
